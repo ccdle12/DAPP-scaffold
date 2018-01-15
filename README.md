@@ -4,7 +4,7 @@ Scaffold for ethereum solidity dapp
 Setup
 
 Git clone:
-``` cd webapp ```
+``` cd DAPP-scaffold/webapp ```
 
 Make the scripts we need to be executable:
 ``` chmod +x npmscript.sh ```
