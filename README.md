@@ -11,7 +11,7 @@ Make the scripts we need to be executable:
 
 
 Run the script to install all the dependencies:
-``` ./npmscipt.sh ```
+``` ./npmscript.sh ```
 
 
 After installation you will be prompted with Yeoman web app generator
