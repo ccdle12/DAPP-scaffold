@@ -14,14 +14,10 @@ Run the script to install all the dependencies:
 ``` ./npmscript.sh ```
 
 
-After installation you will be prompted with Yeoman web app generator
-
-Deselect all the options
-
-Type "n" when prompted to include jQuery
-
-
-<need to fill in the blanks>
+After installation you will be prompted with Yeoman web app generator,
+Deselect all the options,
+Type "n" when prompted to include jQuery,
+Choose TDD when prompted with DSL style
 
 
 
@@ -64,8 +60,11 @@ Run the script to initialize the genesis block for this private chain:
 
 
 Move to the truffle folder:
-``` cd ../ | cd truffle ```
+``` cd ../cd truffle ```
 
+
+Edit truffle.js and add the copied address to truffle.js "<add account address here>"
+``` vi truffle.js ```
 
 
 Make the script executable:
