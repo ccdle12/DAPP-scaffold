@@ -1,3 +1,3 @@
 #!/bin/bash
 
-geth --datadir "./data" account new
+geth --datadir "../data" account new
