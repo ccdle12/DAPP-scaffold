@@ -15,7 +15,9 @@ Run the script to install all the dependencies:
 
 
 After installation you will be prompted with Yeoman web app generator
+
 Deselect all the options
+
 Type "n" when prompted to include jQuery
 
 
